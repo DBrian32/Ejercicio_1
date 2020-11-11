@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ejercicio_1</string>
+    <string name="app_name">MiPrimerAplicacion</string>
     <string name="app_Saludo">Bienvenido</string>
     <string name="btn_name">Entrar</string>
 </resources>
