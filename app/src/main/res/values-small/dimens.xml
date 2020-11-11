@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="Saludo">20sp</dimen>
+    <dimen name="btn_text">10sp</dimen>
+
+</resources>
